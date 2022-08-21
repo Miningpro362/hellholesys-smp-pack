@@ -1,0 +1,381 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/ActuallyAdditions-1.12.2-r150.jar"
+hash = "c5780a82a8f332d210ec4d011d9e1cb712177da50fb4cb1236635db94531d740"
+
+[[files]]
+file = "mods/ActuallyBaubles-1.12-1.1.jar"
+hash = "69817c09c8f0252098142383036062ca2e91d05bd1e422e3ae6682e8423e4bc1"
+
+[[files]]
+file = "mods/AdditionalEnchantedMiner-1.12.2-12.4.5-universal.jar"
+hash = "ae111b413fe649984fe3f614da91626ae4c69b42f883c7d886b307fc437214ae"
+
+[[files]]
+file = "mods/AppleSkin-mc1.12-1.0.14.jar"
+hash = "4bbd37edecff0b420ab0eea166b5d7b4b41a9870bfb8647bf243140dc57f101e"
+
+[[files]]
+file = "mods/Baubles-1.12-1.5.2.jar"
+hash = "b32010b2f2778aa1188585e7ead91ad46d4cb2c715f9c778a61848ba7fe51f8d"
+
+[[files]]
+file = "mods/BetterBuildersWands-1.12-0.11.1.245+69d0d70.jar"
+hash = "f10e9db9cee878032dd674068bc12e6b871d88b83360e7d6ff207023dea7beed"
+
+[[files]]
+file = "mods/BiomesOPlenty-1.12.2-7.0.1.2441-universal.jar"
+hash = "ec01079c622c3bba532515d03a97118c2546876bd6ba98eedfe171ce69b5ab22"
+
+[[files]]
+file = "mods/CTM-MC1.12.2-1.0.0.29.jar"
+hash = "94add10c1d7c4c0ffe2a4c7f7009f4de723275dda76b3ec0d28ba309d22ee92c"
+
+[[files]]
+file = "mods/Chameleon-1.12-4.1.3.jar"
+hash = "238416f801acda67b90fba9e0e572dbd6e7631b7e64c3eb3d6226f45ae536c87"
+
+[[files]]
+file = "mods/Chisel-MC1.12.2-1.0.1.44.jar"
+hash = "ae959cebcc3542e589e12e66400882585a75b80d193a0c2c2f57f4c1a8ef4df2"
+
+[[files]]
+file = "mods/ClimaticBiomes-2.15.8-MC1.12.2.jar"
+hash = "32f9f8cb4bc64abb6c0a3fd99b8335059d82ae2c99e27e54a6f4b17ce0dbfbff"
+
+[[files]]
+file = "mods/Clumps-3.1.2.jar"
+hash = "f3ce670e0087f4c6b770fd05ae5c3dfd8462f74c62397932ea72954d1c6c8df4"
+
+[[files]]
+file = "mods/CoFHCore-1.12.2-4.6.6.1-universal.jar"
+hash = "e07b0c48def9ce8cfaa4cf7a7c656bf7f7d6815f74fbcc2957dd43efa78486a9"
+
+[[files]]
+file = "mods/CoFHWorld-1.12.2-1.4.0.1-universal.jar"
+hash = "f10cd57075690ecbe52094f8af0d2a5af12f89c82b7c6eb73d3d090d74206ea0"
+
+[[files]]
+file = "mods/CodeChickenLib-1.12.2-3.2.3.358-universal.jar"
+hash = "5f8499f7ee2590e45110bbf296b2bf101aec15897e28d5e9759cf8f2387d8a74"
+
+[[files]]
+file = "mods/ColossalChests-1.12.2-1.7.3.jar"
+hash = "3b6cb498dee342df0a0b744521754a1763185ca7caed5102c4702ef02f32fcd1"
+
+[[files]]
+file = "mods/CommonCapabilities-1.12.2-2.4.8.jar"
+hash = "71e7ed804a6d9f25c4c9af5e46c3e362a5c3b43919b2d3a276a57fd25d98776f"
+
+[[files]]
+file = "mods/Computronics-1.12.2-1.6.6-squid-02.jar"
+hash = "a07ebf1149d7611d4521ea043ce0cad637ba80ccb28fadcf04f1d99e6d720f7f"
+
+[[files]]
+file = "mods/CosmicLib-1.12.2-0.4.0.BETA.jar"
+hash = "56040c7747f594b4a258f271ea672f535981bb9d338411742233a9c8a664dc1f"
+
+[[files]]
+file = "mods/CraftTweaker2-1.12-4.1.20.674.jar"
+hash = "3ecf0fc6177b6c73d74acfbe0665ffd55e53c9f707df6215ca921870d26755b2"
+
+[[files]]
+file = "mods/CyclopsCore-1.12.2-1.6.7.jar"
+hash = "613b513fee6089cac67bf497ab823416bea0e10764e5395c49ac935d5ebf9f44"
+
+[[files]]
+file = "mods/DynamicSurroundings-1.12.2-3.6.1.0.jar"
+hash = "5c3e26ab22aaf6ae4d89c487c9fdec6c6e99a88d71af371f9d6bdc984ee11546"
+
+[[files]]
+file = "mods/EnderCore-1.12.2-0.5.76.jar"
+hash = "589a5c20816025835b00874d8de5b52544a3cdb508c391a9389d1f70ef20ab2e"
+
+[[files]]
+file = "mods/EnderIO-1.12.2-5.3.70.jar"
+hash = "e32e12f066a4e18fee15bde717d02cbf46b21406c1ba7bc16e64f3df50a5c847"
+
+[[files]]
+file = "mods/EnderIO-endergy-1.12.2-5.3.70.jar"
+hash = "cbfa195c85194f1ee2b077188735b988f09fd8bf4c9ec2ee30e6264ce6b14b49"
+
+[[files]]
+file = "mods/EnderStorage-1.12.2-2.4.6.137-universal.jar"
+hash = "06e2357019f4e0836bfb9202af013adc125252f610b198a7a547d4596d2934c0"
+
+[[files]]
+file = "mods/Farseek-1.12-2.5.1.jar"
+hash = "28016063a5bce9f229305692795b1e64702985abc026d480e45d9663a96ea80c"
+
+[[files]]
+file = "mods/FastLeafDecay-v14.jar"
+hash = "6da4ff366330253e2fb4f6849ae0c81e4ddc9f6bd5814460ad9ecb63e9f65119"
+
+[[files]]
+file = "mods/FluxNetworks-1.12.2-4.1.1.34.jar"
+hash = "9b48fcbf576095e0258379435c4a8bb15c5d1c2087edbe97fb4631e2e5cc98c6"
+
+[[files]]
+file = "mods/Forgelin-1.8.4.jar"
+hash = "ccfcad80ef73ab815875a91979128ed58c262c479c7c0e5da65b225954bee197"
+
+[[files]]
+file = "mods/FullscreenWindowed-1.12-1.6.0.jar"
+hash = "ab7843fc1cd459ea75d2e8f858e254de0e2b669dfe0372ac8e8d959a4d36724b"
+
+[[files]]
+file = "mods/GravelMiner_1.12.1-6.1.2.jar"
+hash = "f101b6419c2d32a9130428c086a16941958005a9f7f4eeb9d8919313b9080fa3"
+
+[[files]]
+file = "mods/Hwyla-1.8.26-B41_1.12.2.jar"
+hash = "e9ddecd4920ee9a57e11e4b43fb1dd395bbf37e276be726a99a2590272304124"
+
+[[files]]
+file = "mods/Immersive Energy-1.12.2-0.5.4.jar"
+hash = "f7de6ce9f12f8a65c4bc686e6a479e5d71ad14ff88eaa4fb5dadd53ac997e2d7"
+
+[[files]]
+file = "mods/ImmersiveCables-1.12.2-1.3.2.jar"
+hash = "3bf93b78cdbe98c3a57cbbf1769e547b4e000030c8736b28b7f369478baa69c2"
+
+[[files]]
+file = "mods/ImmersiveEngineering-0.12-92.jar"
+hash = "c5ccdd4892679317bfbe7c0018d5255db611ba2cebb88190493a19496cb5e19e"
+
+[[files]]
+file = "mods/ImmersivePosts-0.2.1.jar"
+hash = "b914a10b5a649bbd0fb35d78ce0e56cc975dea643140a8de82143bb5782ebe2e"
+
+[[files]]
+file = "mods/IntegratedDynamics-1.12.2-1.1.11.jar"
+hash = "88d3da662fc35c6709d0dc6931682318bb84964e169819fa8291e2f41451b5f1"
+
+[[files]]
+file = "mods/IntegratedTunnels-1.12.2-1.6.14.jar"
+hash = "4bd7652951fcdc81fcfa29ae5e91926796e17395bb33599e4d1e7f53deed1b56"
+
+[[files]]
+file = "mods/JAOPCA-1.12.2-2.2.8.103.jar"
+hash = "f6a41f21756e50fba98a0ad32e4e23de77e622e5eb18b7f816b3544d78e85c56"
+
+[[files]]
+file = "mods/JAOPCAOC-1.12.2-1.0.13.jar"
+hash = "96b04db14a9ac97550a93a6d8282bba2d6d25981e8df81feac993b11dac09a21"
+
+[[files]]
+file = "mods/JustAFewFish-1.7_for_1.12.jar"
+hash = "7ecfaaf0d407c694d87a111f1dbd62a29a9924c10c9141d072a5a57462d7a3f2"
+
+[[files]]
+file = "mods/JustEnoughPetroleum-0.1.jar"
+hash = "26f60a6549f5167aa10e03a25f3180a310d4cb7f1521d6ee04fcb0db2fefd5e3"
+
+[[files]]
+file = "mods/JustEnoughResources-1.12.2-0.9.2.60.jar"
+hash = "9ea4d7df19c0a53880aae5e745ef1e886854bea5c533878688587a5e3fdaebdd"
+
+[[files]]
+file = "mods/MCMultiPart-2.5.3.jar"
+hash = "ce28db33cfdca80c98dfbb2e5928a5f090477897fa6d28a37300d5564617fde2"
+
+[[files]]
+file = "mods/Magneticraft_1.12-2.8.3-dev.jar"
+hash = "753fed247a406ff5b74f36ef8057d9475fa957e008905a8392f0fb2225bb3724"
+
+[[files]]
+file = "mods/Mantle-1.12-1.3.3.55.jar"
+hash = "0975ad3ef3b8b35fe43461feabe44d406b5521b0a2f3d1965c8d2f6a59ad2e65"
+
+[[files]]
+file = "mods/MouseTweaks-2.10-mc1.12.2.jar"
+hash = "77969c0e7f76c078ebb7004642e86746d57f47b7a46237fcb1c06d4a55679448"
+
+[[files]]
+file = "mods/MultiPageChest-1.12-1.9.1.jar"
+hash = "14b99659c06bc5bb3e7eff3f1ef74a4827cb163da021369c2e59a05ebd0d5d70"
+
+[[files]]
+file = "mods/NuclearCraft-2.18y-1.12.2.jar"
+hash = "1e4f7d787f4c8350eaaf1527571d6da44cc08d1ab008970786487edebbdebf5a"
+
+[[files]]
+file = "mods/OpenGlider-1.12.1-1.1.0.jar"
+hash = "f2c8045b82b15019daf970bde833d555e35de990964e22e0b84001188ab2ff5d"
+
+[[files]]
+file = "mods/OreLib-1.12.2-3.6.0.1.jar"
+hash = "4483d8cc2b0334b82b7d0f5bb6354a2020a0e00ce63a48379e8ba5eb7d79eef9"
+
+[[files]]
+file = "mods/Placebo-1.12.2-1.6.0.jar"
+hash = "c2110db8b8abec23d9e2e9c4a89be010f6fe1150d52595397179c8804d942ee3"
+
+[[files]]
+file = "mods/Plants-1.12.2-2.10.7.jar"
+hash = "2ef329c90787bed1d5a45393f3ec44e40cdddd1ce3e2663e65d8e18509f0f5ed"
+
+[[files]]
+file = "mods/RedstoneFlux-1.12-2.1.1.1-universal.jar"
+hash = "6ff7f96d076bfaad83fb6ba92ec457b8a76391439663b0cc32a9ec5398345280"
+
+[[files]]
+file = "mods/SleepingOverhaul-1.12.2-1.0.0.jar"
+hash = "ad3c463f963ad507e6606fbe642e1190614c4bcad87b1d99129d4fd12076ef71"
+
+[[files]]
+file = "mods/SoundFilters-0.12.1_for_1.12.jar"
+hash = "6d9981db6aa738d025c732ff6457184abfa29d29b0035ee61069c56000e4a977"
+
+[[files]]
+file = "mods/StorageDrawers-1.12.2-5.4.2.jar"
+hash = "563f40aad42d43612b799b5fdf89b00e379e6c64eeb8b01cb0c68c66635c6df5"
+
+[[files]]
+file = "mods/Streams-1.12-0.4.9.jar"
+hash = "32fc4972d4198d5decb8d0b38c112915c29953ae172441a590bf51ce4a647188"
+
+[[files]]
+file = "mods/TConstruct-1.12.2-2.13.0.183.jar"
+hash = "707107f746ffc9d2bf35912953ae1ce780f7b7c4b7cf86b4821a1a151bcf9f6f"
+
+[[files]]
+file = "mods/ThermalDynamics-1.12.2-2.5.6.1-universal.jar"
+hash = "ce3f08c8a0f36ba02fceafa47f25e80c7130727bd8e11206b37a4454d51da3b0"
+
+[[files]]
+file = "mods/ThermalExpansion-1.12.2-5.5.7.1-universal.jar"
+hash = "f1cc8aeefcda2c00235bfb5ee7f76d731325aa324e90e84d7d232d88c1e6f472"
+
+[[files]]
+file = "mods/ThermalFoundation-1.12.2-2.6.7.1-universal.jar"
+hash = "5052f3e308b3ecb6620d26c5ab0cc15c0373732086337483a19fd4447e540ab0"
+
+[[files]]
+file = "mods/ThermalInnovation-1.12.2-0.3.6.1-universal.jar"
+hash = "5c72f0db4476dab72c5c9cb68e9ef21ddb45f7b4cbedf4673d069f7d194b9886"
+
+[[files]]
+file = "mods/TickrateChanger-1.0.14.jar"
+hash = "fdfcb566d128646b1db49171efb3ababbd5664843de9f88ec2fb45747948ec44"
+
+[[files]]
+file = "mods/UndergroundBiomesConstructs-1.12-1.3.8.jar"
+hash = "fbe54dd58692de62d574ad630663c0006085f07e91c6b6567c843aa550a8a739"
+
+[[files]]
+file = "mods/VoiceChatReloaded-1.12.2-1.3.0.jar"
+hash = "c3b8b7aba426c86a377d264d1b0996577d2ef8492a9b44bc364579d77066b1a5"
+
+[[files]]
+file = "mods/WrapUp-1.12-1.1.3.jar"
+hash = "133c55730e48e1652c861898d05c6092b4f58badf9e627f12019000426e7df95"
+
+[[files]]
+file = "mods/additionalpipes-6.0.0.8.jar"
+hash = "175bd7e1d455d93d7f3b9d3edbcab823c653f386cd9b46e319afe8c786bc1c4f"
+
+[[files]]
+file = "mods/bc-extra-pipes-1.12.2-1.jar"
+hash = "c19aff78c8ab469829fde77576c4b047733bf6c7dfd77fa9f26e3ea436f36d98"
+
+[[files]]
+file = "mods/bdlib-1.14.3.12-mc1.12.2.jar"
+hash = "af43cc43c4f7775fbbaa50d63cf1f933911b768ca5e10378a106fdfc0dfe76ef"
+
+[[files]]
+file = "mods/bonsaitrees-1.1.3-b156.jar"
+hash = "3c3b596f202c63b3a9ac7bd2d40b6bd90a9e91ca76e39dcd7073995fe4acec02"
+
+[[files]]
+file = "mods/buildcraft-all-7.99.24.7.jar"
+hash = "44791077f44dd78d130e0012842777f7c05029603f0513b9e09732f45b122504"
+
+[[files]]
+file = "mods/cc-tweaked-1.12.2-1.89.2.jar"
+hash = "f32537175f89ddc9890550a158a910e746cac2848db8f6f123865bd4a8a425fb"
+
+[[files]]
+file = "mods/controllable-0.11.2-1.12.2.jar"
+hash = "33ef42f846dfc2ba666229be122b59f9708bf2b0cd87a7a35a6dfd513428da08"
+
+[[files]]
+file = "mods/cxlibrary-1.12.1-1.6.1.jar"
+hash = "6bdf920ac80b07340862c203d67417e04c81949c383c4808588ff7ab7397a65c"
+
+[[files]]
+file = "mods/foamfix-0.10.11-1.12.2.jar"
+hash = "78691f15379d4b433089fb226411b7316892d25234b76e5ec05305a275bb42f8"
+
+[[files]]
+file = "mods/forestry_1.12.2-5.8.2.387.jar"
+hash = "812260f39b7a17c856d30ba97bbe36578635a2f3b9413fc4dc98ccbf7b0d9884"
+
+[[files]]
+file = "mods/fortunate-2.15.3-MC-1.12.2.jar"
+hash = "0237e4e2b44974e68399d48acdfb929090351513eb758dd4c4535ebd8386cdee"
+
+[[files]]
+file = "mods/howl-1.0.jar"
+hash = "930c6c5bb9b7076ec25ffd59fadecea82837552c4ab026727e6ceeda6991dcbc"
+
+[[files]]
+file = "mods/immersiveintelligence-1.12.2-0.1.1.jar"
+hash = "34094309d54cb458f88c3b6f162bdf972c3e7d50fc085fd45849099fc8c7f8f0"
+
+[[files]]
+file = "mods/immersivepetroleum-1.12.2-1.1.9.jar"
+hash = "6e6b7bcd22966ef6362eec013ef915521c22232f847c3153b57189b5a4011823"
+
+[[files]]
+file = "mods/immersivetech-1.12-1.3.10.jar"
+hash = "f961cea153087577d32c435691dd462c71ca9c717e51ceeb61696bdc7f5165f7"
+
+[[files]]
+file = "mods/ironchest-1.12.2-7.0.72.847.jar"
+hash = "29d3a4115d67b83eb542b618eb64db40db23a7f009a0f4dc9a396101d6f8491f"
+
+[[files]]
+file = "mods/jei_1.12.2-4.16.1.302.jar"
+hash = "9dbc2c0ec8c28821fdd5dca487909089501607ee25c0e8470c43c9fd0bd12053"
+
+[[files]]
+file = "mods/logisticspipes-0.10.3.114.jar"
+hash = "6785c8e9ef7db1d2cd2591e0b84f382442b5ebbf07828c725a86058c2241c902"
+
+[[files]]
+file = "mods/modelloader-1.1.7.jar"
+hash = "6a5150bb4d1d116638e4e601fb0af6bbae30c175a4f0d8d1a2c16c0807f8dcdf"
+
+[[files]]
+file = "mods/natura-1.12.2-4.3.2.69.jar"
+hash = "7663b57daf6ca0b36fbc8dd8ed06dc64447648237579b0c08910e15434ce36b2"
+
+[[files]]
+file = "mods/plethora-1.12.2-1.2.3.jar"
+hash = "94cc1c05725d81270aee57a3fcce58b726603c272a8d1ad527bbe1379aa85361"
+
+[[files]]
+file = "mods/practicallogistics2-1.12.2-3.0.8-11.jar"
+hash = "05e6598c37f432f02224d36c7f2e69aa9595c8b4fa48fe0c037367d47e625027"
+
+[[files]]
+file = "mods/pressure-1.3.1.6-mc1.12.1.jar"
+hash = "2741b92aed380efc30db636f1876a8a3a6d96c5631dace52533fd83cdb16aa94"
+
+[[files]]
+file = "mods/railcraft-12.0.0.jar"
+hash = "5db83f6a177ac2b143dcb50d0a35c2c0873b7cac6e1d8b58ee577494d5937ed2"
+
+[[files]]
+file = "mods/rangedpumps-0.5.jar"
+hash = "9329ee1bcb377849db089c7029d7f393897e0ca8efb9c4510268692bf332c530"
+
+[[files]]
+file = "mods/realfilingcabinet-1.12-0.2.0.20.jar"
+hash = "81edb60ba14d1a374fff01b348b30beb1f54d43911c4749d102b3a43533299d1"
+
+[[files]]
+file = "mods/sonarcore-1.12.2-5.0.19-20.jar"
+hash = "d3c5c5c1e3e09c6c7b49fc6505aad57c1ca0e76a8e5396acabf6123e8c96fa58"

@@ -1,0 +1,13 @@
+name = "hellhole system smp"
+author = "the hellhole system"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2d7c66b3817b0c1092043229f9360811620bc67f0ba9bc5fa67389c325db3b62"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"
